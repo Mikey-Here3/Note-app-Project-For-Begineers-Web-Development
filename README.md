@@ -7,6 +7,19 @@ Welcome to my Simple Note App! This is a basic note-taking app that allows users
 ![Preview](/Note%20App/preview.jpg)
 ![Preview](/Note%20App/preview2.jpg)
 
+## Ours Link 
+Join Our COmmunity For More :
+
+Community Link : https://chat.whatsapp.com/JnslGjY0BK38fJpJbAYWhH
+
+Instagram Link : https://www.instagram.com/ashan.mir69/
+
+Facebook Link : https://www.facebook.com/MikeyCourses
+
+Youtube Link : https://www.youtube.com/@mikeytech3
+
+GitHub Link : https://github.com/Mikey-Here3
+
 ## Features
 
 - Interactive and user-friendly interface
